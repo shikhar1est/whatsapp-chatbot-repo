@@ -19,4 +19,4 @@ out/
 Thumbs.db
 
 # Firebase key (DON’T PUSH THIS)
-src/main/resources/firebase/serviceAccountKey.json
+**/serviceAccountKey.json
