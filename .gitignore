@@ -1,0 +1,22 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# OS stuff
+.DS_Store
+Thumbs.db
+
+# Firebase key (DON’T PUSH THIS)
+src/main/resources/firebase/serviceAccountKey.json
